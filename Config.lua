@@ -48,15 +48,15 @@ local defaults = {
             ["9"] = K[L["Kil'ruk the Wind-Reaver"]],
         },
         ["messages"] = {
-            ["1"] = "1) Skeer: sangres, adds, snipper",
-            ["2"] = "2) Rik'kai: adds, snipper, ambar/destello",
-            ["3"] = "3) Korven: ambar 50%, snipper, ambar/destello",
-            ["4"] = "4) Hisek: snipper, ambar/destello, líneas fuego",
-            ["5"] = "5) Xaril: toxinas, ambar/destello, líneas fuego",
-            ["6"] = "6) Kaz'tik: adds escudo, ambar/destello, líneas fuego",
-            ["7"] = "7) Ka'roz: salto/torbellino, ambar/destello, líneas fuego",
-            ["8"] = "8) Iyyokuk: salto/torbellino, líneas fuego",
-            ["9"] = "9) Kil'ruk: salto/torbellino"
+            ["1"] = "1) Skeer: bloods, adds, snipper",
+            ["2"] = "2) Rik'kai: adds, snipper, amber/flash",
+            ["3"] = "3) Korven: amber 50%, snipper, amber/flash",
+            ["4"] = "4) Hisek: snipper, amber/flash, fire lines",
+            ["5"] = "5) Xaril: toxins, amber/flash, fire lines",
+            ["6"] = "6) Kaz'tik: shield adds, amber/flash, fire lines",
+            ["7"] = "7) Ka'roz: amber/flash, fire lines, death from above",
+            ["8"] = "8) Iyyokuk: fire lines, death from above",
+            ["9"] = "9) Kil'ruk: death from above"
         },
     },
 }
